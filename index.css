@@ -1,0 +1,54 @@
+html {
+    height: -webkit-fill-available;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100vh;
+    min-height: 100svh;
+    min-height: -webkit-fill-available;
+    margin: 0px;
+    font-family: sans-serif;
+    background-color: rgb(255, 217, 159);
+}
+#superior {
+    display: flex;
+    height: 8vmax;
+    justify-content: center;
+    align-items: center;
+    font-size: 4vmax;
+    color: rgb(255, 217, 159);
+    background-color: rgb(115, 70, 38);
+}
+#seccio_1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3vmax;
+    color: rgb(115, 70, 38);
+}
+#seccio_2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3vmax;
+    color: rgb(115, 70, 38);
+}
+#seccio_3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3vmax;
+    color: rgb(115, 70, 38);
+}
+#inici {
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    font-size: 2vmax;
+    color: rgb(0, 0, 0);
+}
+#menu {
+    height: 8vmax;
+}
