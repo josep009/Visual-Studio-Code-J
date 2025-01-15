@@ -51,4 +51,15 @@ body {
 }
 #menu {
     height: 8vmax;
+    display: flex;
 }
+#menu i{
+    flex: 1; 
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    color: rgb(255, 217, 159);
+    background-color: rgb(115, 70, 38);
+    font-size: 5vmax;
+    cursor: pointer; 
+    }
