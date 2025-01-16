@@ -63,3 +63,20 @@ body {
     font-size: 5vmax;
     cursor: pointer; 
     }
+@media (orientation: landscape) {
+    body {
+        
+    flex-direction: row;
+        
+    flex-flow: row-reverse;
+        }
+    #superior {
+        
+        display: none;
+        }
+    #menu {
+        flex-direction: column;
+        width: 8vmax;
+        height: auto; 
+        }
+    }
