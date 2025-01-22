@@ -173,7 +173,7 @@ body {
     overflow-y: scroll;
     }
 #llista_fotos::-webkit-scrollbar {
-    display: none; /* oculta la barra de desplaçament vertical */
+    display: none; 
     }
 @media (orientation: landscape) {
     #llista_fotos {
