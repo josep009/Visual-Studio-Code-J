@@ -23,21 +23,21 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 3vmax;
+    font-size: 2vmax;
     color: rgb(115, 70, 38);
 }
 #seccio_2 {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 3vmax;
+    font-size: 2vmax;
     color: rgb(115, 70, 38);
 }
 #seccio_3 {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 3vmax;
+    font-size: 2vmax;
     color: rgb(115, 70, 38);
 }
 #inici {
@@ -89,8 +89,7 @@ body {
         color: #950E17;
     }
 #foto {
-        max-width: 60vmin; /* dimensions màximes per a la prveisualització de
-        les fotos */
+        max-width: 60vmin; /* dimensions màximes per a la prveisualització de les fotos */
         max-height: 60vmin;
         cursor: pointer;
     }
