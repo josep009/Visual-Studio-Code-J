@@ -64,7 +64,7 @@ body {
 @media (orientation: landscape) {
     body {
         
-    flex-direction: row;
+    flex-direction: column;
         
     flex-flow: row-reverse;
         }
