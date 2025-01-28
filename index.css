@@ -64,7 +64,7 @@ body {
 @media (orientation: landscape) {
     body {
         
-    flex-direction: column;
+    flex-direction: row;
         
     flex-flow: row-reverse;
         }
@@ -129,7 +129,13 @@ body {
         cursor: pointer;
         }
 @media (orientation: landscape) {
+    #seccio_1 {
+        flex-direction: row;
+        }
     #seccio_2 {
+        flex-direction: column;
+        }
+    #seccio_3 {
         flex-direction: row;
         }
     #div_foto {
