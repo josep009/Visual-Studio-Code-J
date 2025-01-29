@@ -61,6 +61,10 @@ body {
     font-size: 5vmax;
     cursor: pointer; 
     }
+#map { 
+        height: 100%;
+        width: 100%; 
+}
 @media (orientation: landscape) {
     body {
         
@@ -130,13 +134,13 @@ body {
         }
 @media (orientation: landscape) {
     #seccio_1 {
-        flex-direction: row;
+        flex-direction: column;
         }
     #seccio_2 {
         flex-direction: column;
         }
     #seccio_3 {
-        flex-direction: row;
+        flex-direction: column;
         }
     #div_foto {
             flex-direction: column;
