@@ -74,8 +74,8 @@ body {
         }
     #superior {
         
-        display: none;
-        }
+            display: none;
+            }
     #menu {
         flex-direction: column;
         width: 8vmax;
